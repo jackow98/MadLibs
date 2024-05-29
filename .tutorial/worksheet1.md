@@ -1,4 +1,4 @@
-### Python Task 1: Haiku Libs
+# Python Task 1: Haiku Libs
 
 **Objective:** Create a simple Haiku-style poem to input different words to generate a Haiku.
 

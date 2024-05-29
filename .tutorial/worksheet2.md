@@ -1,4 +1,4 @@
-### Python Task 2: Rap Libs
+# Python Task 2: Rap Libs
 
 **Objective:** Create a simple Madlibs-style game to input different types of words to generate a fun rap-style paragraph.
 
